@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pistelaskuri/static/css/main.724d90ce.css",
-    "main.js": "/pistelaskuri/static/js/main.513454af.js",
+    "main.js": "/pistelaskuri/static/js/main.1deebed1.js",
     "static/js/453.ef122b21.chunk.js": "/pistelaskuri/static/js/453.ef122b21.chunk.js",
     "index.html": "/pistelaskuri/index.html",
     "main.724d90ce.css.map": "/pistelaskuri/static/css/main.724d90ce.css.map",
-    "main.513454af.js.map": "/pistelaskuri/static/js/main.513454af.js.map",
+    "main.1deebed1.js.map": "/pistelaskuri/static/js/main.1deebed1.js.map",
     "453.ef122b21.chunk.js.map": "/pistelaskuri/static/js/453.ef122b21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.724d90ce.css",
-    "static/js/main.513454af.js"
+    "static/js/main.1deebed1.js"
   ]
 }
